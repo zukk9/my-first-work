@@ -21,3 +21,6 @@ print('hello word');
 print('else something');
 alert(ok);
 alert(ok);
+
+
+alert("This is a bed !!!");
